@@ -1,2 +1,4 @@
 # chat
-simplechat backend in golang
+[simplechat](https://github.com/gabrielecirulli/simplechat) backend in golang
+
+
